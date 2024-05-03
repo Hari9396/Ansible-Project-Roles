@@ -6,3 +6,6 @@ backend.expensesapp.shop
 
 [frontend]
 expensesapp.shop
+
+[all:vars]
+ansible_password=DevOps321
